@@ -40,7 +40,7 @@ modified by nishen
   [![join](https://github.com/Alien-alfa/PublicBot/blob/main/wlogo.svg.png)](https://wa.me/+254792893310)
   <div align="center">
        
-  [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=GingerBreadSketchy&repo=Sketchy&theme=nightowl)](https://github.com/GingerBreadSketchy/Sketchy)
+  
   </div>
     
 ## Setup
