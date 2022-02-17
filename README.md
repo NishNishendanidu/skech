@@ -3,12 +3,12 @@
   <h1>🇰🇪🏅SKETCHY BOT OFFICIAL🏅🇰🇪</h1>
 </div>
 <div align="center">
-  <img border-radius: 15px src="https://telegra.ph/Skechchy-02-17" width="200" height="170"/>
+  <img border-radius: 15px src="https://telegra.ph/Skechchy-02-17" width="20" height="17"/>
   <p align="center">
 <a href="#"><img title="White" src="https://img.shields.io/badge/SKETCHY PUBLIC-blue?colorA=%23ff0000&colorB=%23017e40&style=for-the-badge"></a>
 </p>
   <p align="center">
-<a href="https://github.com/GingerBreadSketchy"><img title="White Dragon" src="https://img.shields.io/badge/Created💥by💥 GINGER-dqz/JulieMwol?color=red&style=for-the-badge&logo=whatsapp"></a>
+<a href="https://github.com/GingerBreadSketchy"><img title="White Dragon" src="https://img.shields.io/badge/Created💥by💥 nishen
 </p>
 </div>
 <p align="center">
