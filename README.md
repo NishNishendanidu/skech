@@ -15,7 +15,7 @@
 Project created by <a href="https://github.com/GingerBreadSketchy"> Ginger</a> This project may be free
     <br
        | © |
-        owner |
+        owner | nishen 
     <br> 
 </p>
 
